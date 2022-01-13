@@ -9,7 +9,6 @@ android {
     defaultConfig {
         minSdkVersion 14  
         targetSdkVersion 30
-        setProperty("android-labs", "AndroidLabs")
 
     }
 
